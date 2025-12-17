@@ -2,3 +2,4 @@
   def __inint__();
 
 
+print("Amor da minha vida")
